@@ -7,6 +7,7 @@ my_list.extend(another_list)
 
 print(my_list)
 my_list.sort()
-
 print(my_list)
+
 print(statistics.median(my_list))
+print(my_list)
