@@ -5,8 +5,3 @@ for i in range(numberOfSteps):
     j = a.pop()
     a.insert(0, j)
     print(a)
-
-
-
-
-
